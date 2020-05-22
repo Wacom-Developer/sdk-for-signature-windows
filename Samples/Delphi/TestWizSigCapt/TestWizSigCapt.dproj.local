@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2012/08/23 12:31:25.086,=C:\Users\jgarrido\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/23 12:31:49.048,X:\delphi\TestWizSigCapt\TestWizSigCaptForm.dfm=C:\Users\jgarrido\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2012/08/23 12:31:49.048,X:\delphi\TestWizSigCapt\TestWizSigCaptForm.pas=C:\Users\jgarrido\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2012/08/23 12:31:53.749,X:\delphi\TestWizSigCapt\TestWizSigCapt.dproj=C:\Users\jgarrido\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
