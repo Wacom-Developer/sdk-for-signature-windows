@@ -1,4 +1,4 @@
-# Signature SDK Windows
+# Wacom Ink SDK for Signature - Windows
 
 ## Version 4.5.5
 

@@ -10,19 +10,19 @@ To use a pen/tablet device you will need to install the Wacom driver which provi
 See the FAQs for [tablet installation](http://will-docs.westeurope.cloudapp.azure.com/faqs/docs/q-tablet/tablet-installation)
 
 
-## Download the Signature SDK
+## Download the Wacom Ink SDK for signatures
 
 Download the SDK from https://developer.wacom.com/developer-dashboard
 
 * login using your Wacom ID
 * Select **Downloads for signature**
-* Download **Signature SDK for Windows Desktop**
+* Download **Wacom Ink SDK for signature for Windows Desktop**
 * Accept the End User License Agreement to use the SDK
 
 The downloaded Zip file contains the SDK with documentation.
 The folder 'SignatureSDK' is included in the Zip file and contains the Signature Library MSI installer.
 
-## Install the Signature SDK
+## Install the Wacom Ink SDK for signatures
 
 Regardless of your Windows system being 32 or 64 bit, to get started we recommend installing the 32-bit Signature Library:
 **Wacom-Signature-SDK-x86-vXX.msi**
