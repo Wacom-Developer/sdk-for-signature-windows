@@ -3,7 +3,7 @@
   Demonstrates use of the wizard control to input a 4-character PIN code.
   Also displays a shutdown text
   
-  Copyright (c) 2015 Wacom. All rights reserved.
+  Copyright (c) 2020 Wacom Co. Ltd. All rights reserved.
   
 ********************************************************/
 using System;

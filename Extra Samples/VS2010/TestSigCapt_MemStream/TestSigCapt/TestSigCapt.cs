@@ -5,7 +5,7 @@
   Displays a form with a button to start signature capture.
   The captured signature is encoded in a byte array in memory and is displayed on the form
   
-  Copyright (c) 2015 Wacom. All rights reserved.
+  Copyright (c) 2020 Wacom Co. Ltd. All rights reserved.
   
 ********************************************************/
 using System;

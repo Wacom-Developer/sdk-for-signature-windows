@@ -1,0 +1,11 @@
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\bin\Debug\TestSigCapt.exe
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\bin\Debug\TestSigCapt.pdb
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\bin\Debug\stdole.dll
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\obj\x86\Debug\TestSigCapt.csprojAssemblyReference.cache
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\obj\x86\Debug\TestSigCapt.TestSigCapt.resources
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\obj\x86\Debug\TestSigCapt.Properties.Resources.resources
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\obj\x86\Debug\TestSigCapt.csproj.GenerateResource.cache
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\obj\x86\Debug\TestSigCapt.csproj.CoreCompileInputs.cache
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\obj\x86\Debug\TestSigCapt.csproj.CopyComplete
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\obj\x86\Debug\TestSigCapt.exe
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestSigCapt_MemStream\TestSigCapt\obj\x86\Debug\TestSigCapt.pdb

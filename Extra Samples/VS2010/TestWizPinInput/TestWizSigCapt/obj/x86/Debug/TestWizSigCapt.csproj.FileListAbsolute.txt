@@ -1,0 +1,15 @@
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\bin\Debug\TestWizSigCapt.exe.config
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\bin\Debug\TestWizSigCapt.exe
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\bin\Debug\TestWizSigCapt.pdb
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\bin\Debug\Florentis.InteropAxFlSigCOM.dll
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\bin\Debug\Florentis.InteropAxFlWizCOM.dll
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\bin\Debug\stdole.dll
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.csprojAssemblyReference.cache
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.Form1.resources
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.Properties.Resources.resources
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.TestWizSigCapt.resources
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.csproj.GenerateResource.cache
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.csproj.CoreCompileInputs.cache
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.csproj.CopyComplete
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.exe
+D:\Github\sdk-for-signature-windows\Extra Samples\VS2010\TestWizPinInput\TestWizSigCapt\obj\x86\Debug\TestWizSigCapt.pdb

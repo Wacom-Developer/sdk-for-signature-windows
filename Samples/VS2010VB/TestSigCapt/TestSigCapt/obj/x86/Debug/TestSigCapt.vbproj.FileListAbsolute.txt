@@ -1,0 +1,14 @@
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.exe
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.pdb
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.xml
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.vbprojAssemblyReference.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\Interop.FlSigCaptLib.dll
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\Interop.FLSIGCTLLib.dll
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.vbproj.ResolveComReference.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.VBTestSigCapt.resources
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.Resources.resources
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.vbproj.GenerateResource.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.vbproj.CoreCompileInputs.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.exe
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.xml
+D:\Github\sdk-for-signature-windows\Samples\VS2010VB\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.pdb

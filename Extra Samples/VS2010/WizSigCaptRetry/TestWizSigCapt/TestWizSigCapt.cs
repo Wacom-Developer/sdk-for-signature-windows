@@ -1,6 +1,7 @@
 ﻿/*  TestWizSigCapt.cs
  * 
  *   Allows multiple iterations of wizard script
+ *   Copyright (c) 2020 Wacom Co. Ltd.  All rights reserved.
  */
 
 using System;
@@ -216,7 +217,14 @@ namespace TestWizSigCapt
                 byte[] signature = sigObj.RenderBitmap(null, 200, 150, "image/png", 0.5f, 0xff0000, 0xffffff, -1.0f, -1.0f, RBFlags.RenderOutputBinary | RBFlags.RenderColor32BPP | RBFlags.RenderEncodeData);
                 
                 using (MemoryStream ms = new MemoryStream(signature))
-                {                    
+                {
+                    System.Drawing.Image newImage = System.Drawing.Image.FromStream(ms);
+                    sigImage.Image = newImage;
+
+                    // work with image here. 
+                    // You'll need to keep the MemoryStream open for 
+                    // as long as you want to work with your new image. 
+                    ms.Dispose();
                 }
             }
             closeWizard();

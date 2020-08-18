@@ -6,7 +6,7 @@
   Captures the signature with a transparent background and anti-aliasing.
   The signature is saved to sig1.png
   
-  Copyright (c) 2015 Wacom. All rights reserved.
+  Copyright (c) 2020 Wacom Co. Ltd. All rights reserved.
   
 ********************************************************/
 using System;
