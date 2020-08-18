@@ -7,7 +7,7 @@ A variety of samples are supplied for Windows 7 and above.
 To test the samples use a Wacom device such as an STU-500 or a pen/tablet device such as a DTU-1141.
 
 To use a pen/tablet device you will need to install the Wacom driver which provides the wintab interface used by the Signature Library.
-See the FAQs for [tablet installation](http://will-docs.westeurope.cloudapp.azure.com/faqs/docs/q-tablet/tablet-installation)
+See the FAQs for [tablet installation](http://developer-docs.wacom.com/faqs/docs/q-tablet/tablet-installation)
 
 
 ## Download the Wacom Ink SDK for signatures
