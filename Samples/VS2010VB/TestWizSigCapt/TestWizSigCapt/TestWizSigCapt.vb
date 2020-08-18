@@ -72,8 +72,8 @@ Public Class TestWizSigCapt
     Private Sub startWizard()
       print("startWizard()")
       Dim success As Boolean
-      WizCtl.Licence = "<<license>>"
-      success = WizCtl.PadConnect()
+        WizCtl.Licence = "<<license>>"
+        success = WizCtl.PadConnect()
       If (success = True) Then
          ScriptIsRunning = True
          print("Pad detected: " & WizCtl.PadWidth & " x " & WizCtl.PadHeight)

@@ -94,6 +94,7 @@
             this.SigCtl.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("SigCtl.OcxState")));
             this.SigCtl.Size = new System.Drawing.Size(284, 141);
             this.SigCtl.TabIndex = 5;
+            this.SigCtl.Visible = false;
             // 
             // TestWizSigCapt
             // 

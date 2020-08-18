@@ -1,0 +1,42 @@
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.csprojAssemblyReference.cache
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\MainWindow.g.cs
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\App.g.cs
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF_MarkupCompile.cache
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF_MarkupCompile.lref
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\TestWizCapt_WPF.exe.config
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\TestWizCapt_WPF.exe
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\TestWizCapt_WPF.pdb
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropAxFlSigCOM.dll
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropAxFlWizCOM.dll
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropFlSigCapt.dll
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropFlSigCOM.dll
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropFlWizCOM.dll
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\MainWindow.baml
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.g.resources
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.Properties.Resources.resources
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.csproj.GenerateResource.cache
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.csproj.CoreCompileInputs.cache
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.csproj.CopyComplete
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.exe
+D:\Samples\Signature SDK\Bespoke\VS2010\WPF\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.pdb
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\TestWizCapt_WPF.exe.config
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\TestWizCapt_WPF.exe
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\TestWizCapt_WPF.pdb
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropAxFlSigCOM.dll
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropAxFlWizCOM.dll
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropFlSigCapt.dll
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropFlSigCOM.dll
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\bin\Debug\Florentis.InteropFlWizCOM.dll
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.csprojAssemblyReference.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\MainWindow.g.cs
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\App.g.cs
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF_MarkupCompile.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF_MarkupCompile.lref
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\MainWindow.baml
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.g.resources
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.Properties.Resources.resources
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.csproj.GenerateResource.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.csproj.CoreCompileInputs.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.csproj.CopyComplete
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.exe
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestWizCapt_WPF\TestWizCapt_WPF\obj\Debug\TestWizCapt_WPF.pdb

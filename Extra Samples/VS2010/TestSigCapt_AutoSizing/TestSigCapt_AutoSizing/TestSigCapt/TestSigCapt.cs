@@ -6,7 +6,7 @@
   Auto resizes signature image if the captured data is too much to be encoded in the original
   The captured signature is encoded in an image file which is displayed on the form and output to a PNG file
   
-  Copyright (c) 2015 Wacom. All rights reserved.
+  Copyright (c) 2020 Wacom Co. Ltd. All rights reserved.
   
 ********************************************************/
 using System;

@@ -16,9 +16,9 @@ Public Class VBTestSigCapt
       Dim dc As New DynamicCapture
       Dim res As DynamicCaptureResult
       Dim renderOK As Boolean
-      sigCtl.Licence = "<<license>>"
+        sigCtl.Licence = "<<license>>"
 
-      res = dc.Capture(sigCtl, "who", "why", vbNull, vbNull)
+        res = dc.Capture(sigCtl, "who", "why", vbNull, vbNull)
       If (res = DynamicCaptureResult.DynCaptOK) Then
          print("signature captured successfully")
          Dim sigObj As SigObj
