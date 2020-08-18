@@ -2,7 +2,7 @@
 '  Displays a form with a button to start signature capture
 '  The captured signature is encoded in an image file which is displayed on the form
 '
-'  Copyright (c) 2015 Wacom GmbH. All rights reserved.
+'  Copyright (c) 2020 Wacom Co. Ltd. All rights reserved.
 '
 Imports FLSIGCTLLib
 Imports FlSigCaptLib
