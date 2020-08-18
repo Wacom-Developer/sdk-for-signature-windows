@@ -1,0 +1,11 @@
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\bin\Debug\TestAXSigCapt.exe
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\bin\Debug\TestAXSigCapt.pdb
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\bin\Debug\stdole.dll
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\obj\x86\Debug\TestAXSigCapt.csprojAssemblyReference.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\obj\x86\Debug\TestAXSigCapt.TestAXSigCapt.resources
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\obj\x86\Debug\TestAXSigCapt.Properties.Resources.resources
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\obj\x86\Debug\TestAXSigCapt.csproj.GenerateResource.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\obj\x86\Debug\TestAXSigCapt.csproj.CoreCompileInputs.cache
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\obj\x86\Debug\TestAXSigCapt.csproj.CopyComplete
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\obj\x86\Debug\TestAXSigCapt.exe
+D:\Github\sdk-for-signature-windows\Samples\VS2010\TestAXSigCapt\TestAXSigCapt\obj\x86\Debug\TestAXSigCapt.pdb
