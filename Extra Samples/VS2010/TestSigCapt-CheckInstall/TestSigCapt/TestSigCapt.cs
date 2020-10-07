@@ -57,6 +57,8 @@ namespace TestSigCapt
            
         }
 
+				// This is the function which actually tests to see whether the Signature SDK has been installed
+				// If it hasn't then the object instantiation will fail because the program can't find the DLLs
         private void TestSigObject()
         {
             SigCtl sigCtl = new SigCtl();
