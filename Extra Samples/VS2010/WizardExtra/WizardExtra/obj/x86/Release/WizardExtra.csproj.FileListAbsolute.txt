@@ -1,0 +1,15 @@
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\bin\Release\WizardExtra.exe.config
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\bin\Release\WizardExtra.exe
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\bin\Release\WizardExtra.pdb
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\bin\Release\Florentis.InteropAxFlSigCOM.dll
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\bin\Release\Florentis.InteropAxFlWizCOM.dll
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\bin\Release\stdole.dll
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.csprojAssemblyReference.cache
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.Properties.Resources.resources
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.Step1.resources
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.WizardExtra.resources
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.csproj.GenerateResource.cache
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.csproj.CoreCompileInputs.cache
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.csproj.CopyComplete
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.exe
+D:\Samples\Signature SDK\Github\WizardExtra\WizardExtra\obj\x86\Release\WizardExtra.pdb
