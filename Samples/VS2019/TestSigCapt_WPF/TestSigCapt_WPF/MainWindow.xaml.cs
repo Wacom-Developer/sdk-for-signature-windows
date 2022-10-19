@@ -54,7 +54,7 @@ namespace TestSigCapt_WPF
                 SigObj sigObj = (SigObj)sigCtl.Signature;
                 sigObj.set_ExtraData("AdditionalData", "C# test: Additional data");
 
-                String filename = "D:\\temp\\sig1.png";
+                String filename = System.IO.Path.Combine(System.IO.Path.GetTempPath(), "sig1.png");
                 try
                 {
                     //print("Saving signature to file " + filename);
