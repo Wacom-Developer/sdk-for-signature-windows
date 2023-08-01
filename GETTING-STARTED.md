@@ -2,7 +2,7 @@
 
 ## Test environment
 
-A variety of samples are supplied for Windows 7 and above.
+A variety of samples are supplied for Windows 10 and above.
 
 To test the samples use a Wacom device such as an STU-500 or a pen/tablet device such as a DTU-1141.
 
