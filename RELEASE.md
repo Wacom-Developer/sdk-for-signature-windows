@@ -1,8 +1,17 @@
 # Wacom Ink SDK for Signature - Windows
 
-## Version 4.7.2
+## Version 4.7.4
 
 ## History
+
+*  Release 4.7.4 11-Aug-2023
+    - Added openssl3 compatibility
+    - Fix for Java string handling
+    - DPI improvements to signature capture window
+    - Ax .NET components now target Framework v4.8
+
+*  Release 4.7.3 27-Feb-2023
+    - Fix to JNI manifest
 
 *  Release 4.7.2 30-Jan-2023
     * Updated EULA included in installer 
