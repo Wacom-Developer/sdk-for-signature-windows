@@ -1,8 +1,14 @@
 # Wacom Ink SDK for Signature - Windows
 
-## Version 4.7.4
+## Version 4.7.7
 
 ## History
+
+*  Release 4.7.7 04-Oct-2023
+    - New licensing components that employ openssl3
+
+*  Release 4.7.6 01-Sep-2023
+    - Fixed missing WizardCallback API
 
 *  Release 4.7.4 11-Aug-2023
     - Added openssl3 compatibility
