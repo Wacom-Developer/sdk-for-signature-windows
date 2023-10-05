@@ -5,16 +5,16 @@
 ## History
 
 *  Release 4.7.7 04-Oct-2023
-    - New licensing components that employ openssl3
+    * New licensing components that employ openssl3
 
 *  Release 4.7.6 01-Sep-2023
-    - Fixed missing WizardCallback API
+    * Fixed missing WizardCallback API
 
 *  Release 4.7.4 11-Aug-2023
-    - Added openssl3 compatibility
-    - Fix for Java string handling
-    - DPI improvements to signature capture window
-    - Ax .NET components now target Framework v4.8
+    * Added openssl3 compatibility
+    * Fix for Java string handling
+    * DPI improvements to signature capture window
+    * Ax .NET components now target Framework v4.8
 
 *  Release 4.7.3 27-Feb-2023
     - Fix to JNI manifest
