@@ -9,9 +9,6 @@ To test the samples use a Wacom device such as an STU-500 or a pen/tablet device
 To use a pen/tablet device you will need to install the Wacom driver which provides the wintab interface used by the Signature Library.
 See the FAQs for [tablet installation](http://developer-docs.wacom.com/faqs/docs/q-tablet/tablet-installation)
 
-**NB:** As of release 4.7.4, the AX .NET components now target version 4.8 of the .NET Framework, and require .NET Framework 4.8 as a minimum. 
-
-
 ## Download the Wacom Ink SDK for signatures
 
 Download the SDK from https://developer.wacom.com/developer-dashboard

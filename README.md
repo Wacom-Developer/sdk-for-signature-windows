@@ -1,5 +1,7 @@
 # Wacom Ink SDK for signature - Windows
 
+**NB:** As of release 4.7.4, the AX .NET components now target version 4.8 of the .NET Framework, and require .NET Framework 4.8 as a minimum. 
+
 ## Introduction
 
 ---
