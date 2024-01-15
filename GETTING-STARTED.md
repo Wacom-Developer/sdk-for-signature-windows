@@ -340,7 +340,7 @@ Created Signature image file: sig.png
 ----
 ## C# Samples
 
-Visual Studio projects are included in the VS2010 folder.
+Visual Studio projects are included in the VS2019 folder.
 The projects include references to the interop files installed with the Signature Library.
 When you run the installer be sure to include the .NET components:
 
@@ -359,7 +359,7 @@ Open the .sln solution file to open the project, then build and run.
 ----
 
 ## Visual Basic Samples
-Visual Studio projects are included in the VS2010VB folder.
+Visual Studio projects are included in the VS2019VB folder.
 The projects include references to the interop files installed with the Signature Library.
 When you run the installer be sure to include the .NET components as described for C# samples.
 
