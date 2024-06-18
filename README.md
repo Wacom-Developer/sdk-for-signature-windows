@@ -1,5 +1,7 @@
 # Wacom Ink SDK for signature - Windows
 
+**NB:** As of release 4.7.4, the AX .NET components now target version 4.8 of the .NET Framework, and require .NET Framework 4.8 as a minimum. 
+
 ## Introduction
 
 ---
@@ -168,9 +170,9 @@ For further details on using the SDK see [Wacom Ink SDK for signature documentat
 The API Reference is available directly in the downloaded SDK.
 
 ## Support
-If you experience issues with the technology components, please see related [FAQs](http://developer-docs.wacom.com/faqs)
+If you experience issues with the technology components, please see related [FAQs](https://developer-support.wacom.com/hc/en-us)
 
-For further support file a ticket in our **Developer Support Portal** described here: [Request Support](http://developer-docs.wacom.com/faqs/docs/q-support/support)
+For further support file a ticket in our **Developer Support Portal** described here: [Request Support](https://developer-support.wacom.com/hc/en-us/requests/new)
 
 ## Developer Community 
 Join our developer community:

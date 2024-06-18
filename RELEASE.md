@@ -1,8 +1,46 @@
 # Wacom Ink SDK for Signature - Windows
 
-## Version 4.5.5
+## Version 4.7.7
 
 ## History
+
+*  Release 4.7.7 04-Oct-2023
+    * New licensing components that employ openssl3
+
+*  Release 4.7.6 01-Sep-2023
+    * Fixed missing WizardCallback API
+
+*  Release 4.7.4 11-Aug-2023
+    * Added openssl3 compatibility
+    * Fix for Java string handling
+    * DPI improvements to signature capture window
+    * Ax .NET components now target Framework v4.8
+
+*  Release 4.7.3 27-Feb-2023
+    - Fix to JNI manifest
+
+*  Release 4.7.2 30-Jan-2023
+    * Updated EULA included in installer 
+
+*  Release 4.7.1 10-Feb-2022
+    * Fix for missing who/why 
+
+*  Release 4.7.0  17-Dec-2021
+    * Fix for STU capture not honoring the m_inking flag and the PC/LCD not being synchronised as a result.
+    * Added stuFastClear registry setting; simplified parent window handling.
+    * Added Epic interface
+
+*  Release 4.6.2  17-Dec-2021
+    * Fixes for licence issues with Java implementation
+    
+*  Release 4.6.1  24-Nov-2021
+    * New registry settings introduced to resolve inking discrepancy issues when using the 540 serially over RDP
+    * Fix for ink blob caused by multiple clicking of OK button (affecting SigCaptX)
+    * Minor cosmetic improvement to Capture Analyser  
+
+*  Release 4.6.0  31-Mar-2021
+    * Fix for issue arising from failure of reflection to find Capture method
+    * Added DPI handling to WizCtl
 
 * Release 4.5.5  15-Nov-2019
     * Fix for WizCtl not reporting pad disconnection
