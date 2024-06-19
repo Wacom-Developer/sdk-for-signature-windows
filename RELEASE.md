@@ -4,6 +4,9 @@
 
 ## History
 
+*  Release 4.8.1 24-Nov-2023
+    * Updated hash & security component
+
 *  Release 4.7.7 04-Oct-2023
     * New licensing components that employ openssl3
 
