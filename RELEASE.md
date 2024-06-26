@@ -1,6 +1,6 @@
 # Wacom Ink SDK for Signature - Windows
 
-## Version 4.7.7
+## Version 4.8.1
 
 ## History
 
