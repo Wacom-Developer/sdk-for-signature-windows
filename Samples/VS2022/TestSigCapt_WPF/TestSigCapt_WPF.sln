@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSigCapt_WPF", "TestSigCapt_WPF\TestSigCapt_WPF.csproj", "{34C6B3F6-1B27-4D10-9305-02FCE500557E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C6B3F6-1B27-4D10-9305-02FCE500557E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C6B3F6-1B27-4D10-9305-02FCE500557E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C6B3F6-1B27-4D10-9305-02FCE500557E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C6B3F6-1B27-4D10-9305-02FCE500557E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02D16042-9580-468B-B7D2-04C3A189CBA4}
+	EndGlobalSection
+EndGlobal
