@@ -1,7 +1,9 @@
 /*
   DecodeImage
   Reads image file sig.png to report capture details
-  (an alternative image filename can be supplied as an argument)
+  (an alternative  sig.png filename can be supplied as an argument)
+    
+  Copyright (c) 2015 Wacom GmbH. All rights reserved.
   
 */
 function print( txt ) {
@@ -15,6 +17,7 @@ function main() {
     filename=args(0);
   print("Reading image file: " + filename);
   sigCtl = new ActiveXObject("Florentis.SigCtl");
+  sigCtl.SetProperty("Licence", "<<license>>");
   sig = sigCtl.Signature;
   rc = sig.ReadEncodedBitmap(filename);
   if( rc == 0 ) {
@@ -22,6 +25,8 @@ function main() {
     print("Why: \t" + sig.Why);
     print("When: \t" + sig.When);
     print("Additional data: \t" + sig.ExtraData("AdditionalData"));
+    print("Additional data: \t" + sig.AdditionalData(26));
+    print("Additional data: \t" + sig.AdditionalData(27));
   }
   else {
     print("Error reading file: " + rc);
