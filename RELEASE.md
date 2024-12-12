@@ -1,8 +1,11 @@
 # Wacom Ink SDK for Signature - Windows
 
-## Version 4.8.1
+## Version 4.8.2
 
 ## History
+
+* Release 4.8.2 10-Dec-2024
+    * Enabled ink rendering in WizCtl
 
 *  Release 4.8.1 24-Nov-2023
     * Updated hash & security component
