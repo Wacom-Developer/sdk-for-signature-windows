@@ -167,7 +167,7 @@ For further samples check Wacom's Developer additional samples, see [https://git
 ## Documentation
 For further details on using the SDK see [Wacom Ink SDK for signature documentation](http://developer-docs.wacom.com/sdk-for-signature/) 
 
-The API Reference is available directly in the downloaded SDK.
+The API Reference is available here: [PDF documents](https://developer-docs.wacom.com/docs/sdk-for-signature/guides/windows/#pdf-documents)
 
 ## Support
 If you experience issues with the technology components, please see related [FAQs](https://developer-support.wacom.com/hc/en-us)
