@@ -1,8 +1,14 @@
 # Wacom Ink SDK for Signature - Windows
 
-## Version 4.8.2
+## Version 4.10.7
 
 ## History
+
+* Release 4.10.7 13-Jul-2026
+    * Introduced updated signature capture interface
+    * New configuration options for CaptureWindow via CONFIG file
+    * Expanded API 
+    * NB: Wizard components & dynamic components will be deprecated for next release
 
 * Release 4.8.2 10-Dec-2024
     * Enabled ink rendering in WizCtl
