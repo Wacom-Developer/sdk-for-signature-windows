@@ -42,17 +42,7 @@ The Signature Library consists of:
 ## Signature Library License
 
 A license must be included in your application code to use the Signature Library.
-The licensing scheme has recently been relaxed and the Lite license can be used free of charge for all functions excluding:
-- signature encryption
-- ISO signature formatting
 
-### Wacom Ink SDK for signature Lite License
-
-The Wacom Ink SDK for signature Lite license is in JSON Web Token (JWT) format and can be copied here:
-
-```
-eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI3YmM5Y2IxYWIxMGE0NmUxODI2N2E5MTJkYTA2ZTI3NiIsImV4cCI6MjE0NzQ4MzY0NywiaWF0IjoxNTYwOTUwMjcyLCJyaWdodHMiOlsiU0lHX1NES19DT1JFIiwiU0lHQ0FQVFhfQUNDRVNTIl0sImRldmljZXMiOlsiV0FDT01fQU5ZIl0sInR5cGUiOiJwcm9kIiwibGljX25hbWUiOiJTaWduYXR1cmUgU0RLIiwid2Fjb21faWQiOiI3YmM5Y2IxYWIxMGE0NmUxODI2N2E5MTJkYTA2ZTI3NiIsImxpY191aWQiOiJiODUyM2ViYi0xOGI3LTQ3OGEtYTlkZS04NDlmZTIyNmIwMDIiLCJhcHBzX3dpbmRvd3MiOltdLCJhcHBzX2lvcyI6W10sImFwcHNfYW5kcm9pZCI6W10sIm1hY2hpbmVfaWRzIjpbXX0.ONy3iYQ7lC6rQhou7rz4iJT_OJ20087gWz7GtCgYX3uNtKjmnEaNuP3QkjgxOK_vgOrTdwzD-nm-ysiTDs2GcPlOdUPErSp_bcX8kFBZVmGLyJtmeInAW6HuSp2-57ngoGFivTH_l1kkQ1KMvzDKHJbRglsPpd4nVHhx9WkvqczXyogldygvl0LRidyPOsS5H2GYmaPiyIp9In6meqeNQ1n9zkxSHo7B11mp_WXJXl0k1pek7py8XYCedCNW5qnLi4UCNlfTd6Mk9qz31arsiWsesPeR9PN121LBJtiPi023yQU8mgb9piw_a-ccciviJuNsEuRDN3sGnqONG3dMSA
-```
 In the samples, replace the search string `<<license>>` with the license shown.
 
 To use the excluded functions please contact technical support for suitable sample code and a license:
@@ -61,8 +51,11 @@ To use the excluded functions please contact technical support for suitable samp
 ## Sample Code
 
 Samples are supplied with a placeholder for the license string.
-Before you can use the samples you will need to replace all occurrences of the string `<<license>>` with the Signature Library license shown above.
+Before you can use the samples you will need to replace all occurrences of the string `<<license>>` with a Signature Library license. 
 
+The Signature SDK for Windows can be used free of charge with an evaluation license downloaded from our [Developer Relations side](https://developer.wacom.com/en-us/developer-dashboard). To use any of the functions without an evaluation watermark, you will need a commercial license.
+
+More in-depth information about licensing can be found on our [Developer Documentation site.](https://developer-docs.wacom.com/docs/sdk-for-signature/licensing/)
 
 ## JavaScript Samples
 
