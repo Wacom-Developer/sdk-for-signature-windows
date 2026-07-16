@@ -58,7 +58,7 @@ namespace TestWizSigCapt
             InitializeComponent();
             SigCtl SigCtl = new SigCtl();
 
-            WizCtl.Licence = "<<<INSERT_LICENSE_HERE>>>";
+            WizCtl.Licence = "<<license>>";
             // initialise Wizard script support
             Callback = new WizardCallback();    // Callback provided via InteropAXFlWizCOM
             Callback.EventHandler = null;

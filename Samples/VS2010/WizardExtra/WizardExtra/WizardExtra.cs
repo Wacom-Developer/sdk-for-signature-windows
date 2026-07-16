@@ -54,7 +54,7 @@ namespace WizardExtra
     Checkbox checkBox;
     RadioButton radioButtonFemale, radioButtonMale;
 
-    public static string LicenceKey = "<<<INSERT_LICENSE_HERE>>>";
+    public static string LicenceKey = "<<license>>";
     public static StringFormat sfCentered;
 
     public static class Stu300Props

@@ -23,7 +23,7 @@ class CaptureImageBase64 {
     try
       {
         SigCtl sigCtl = new SigCtl();
-        sigCtl.licence("<<<INSERT_LICENSE_HERE>>>");
+        sigCtl.licence("<<license>>");
         DynamicCapture dc = new DynamicCapture();
         int rc = dc.capture(sigCtl, "who", "why", null, null);
         if(rc == 0) {

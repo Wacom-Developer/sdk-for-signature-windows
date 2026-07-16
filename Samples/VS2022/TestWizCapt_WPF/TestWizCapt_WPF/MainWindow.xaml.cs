@@ -87,7 +87,7 @@ namespace TestWizCapt_WPF
             SigCtl = new SigCtl();
             WizCtl = new Florentis.WizCtl();
 
-            WizCtl.Licence = "<<<INSERT_LICENSE_HERE>>>";
+            WizCtl.Licence = "<<license>>";
             // initialise Wizard script support
             Callback = new WizardCallback();    // Callback provided via InteropAXFlWizCOM
             Callback.EventHandler = null;

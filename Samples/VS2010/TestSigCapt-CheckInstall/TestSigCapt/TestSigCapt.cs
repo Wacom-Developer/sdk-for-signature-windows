@@ -90,7 +90,7 @@ namespace TestSigCapt
         {
             print("btnSign was pressed");
             SigCtl sigCtl = new SigCtl();
-            sigCtl.Licence = "<<<INSERT_LICENSE_HERE>>>";
+            sigCtl.Licence = "<<license>>";
             DynamicCapture dc = new DynamicCaptureClass();
             DynamicCaptureResult res = dc.Capture(sigCtl, "Who", "Why", null, null);
             if (res == DynamicCaptureResult.DynCaptOK)

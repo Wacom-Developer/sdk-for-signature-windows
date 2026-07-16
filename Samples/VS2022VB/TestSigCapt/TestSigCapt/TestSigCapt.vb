@@ -16,7 +16,7 @@ Public Class VBTestSigCapt
       Dim dc As New DynamicCapture
       Dim res As DynamicCaptureResult
       Dim renderOK As Boolean
-        sigCtl.Licence = "<<<INSERT_LICENSE_HERE>>>"
+        sigCtl.Licence = "<<license>>"
 
         res = dc.Capture(sigCtl, "who", "why", vbNull, vbNull)
       If (res = DynamicCaptureResult.DynCaptOK) Then

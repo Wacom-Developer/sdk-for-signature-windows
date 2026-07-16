@@ -76,7 +76,7 @@ Public Class TestWizSigCapt
     Private Sub startWizard()
       print("startWizard()")
       Dim success As Boolean
-    WizCtl.Licence = "<<<INSERT_LICENSE_HERE>>>"
+    WizCtl.Licence = "<<license>>"
     success = WizCtl.PadConnect()
     ' WizCtl.Zoom = 100
     If (success = True) Then
