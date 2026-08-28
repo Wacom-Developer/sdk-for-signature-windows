@@ -357,6 +357,41 @@ Open the .sln solution file to open the project, then build and run.
 | TestAXSigCapt                 | Demonstrates using the ActiveX control in a Windows form |
 
 ----
+## Interface Samples
+
+The `Interface Samples` folder contains newer C# and Java samples built against the Signature Capture interface (`SignatureDevice` / `CaptureWindow`). Both samples display a form with a button to start signature capture; the captured signature is rendered to an image shown on the form.
+
+As with the other samples, replace all occurrences of `<<license>>` in the sample source with a Signature Library license before building.
+
+### C#
+
+Prerequisites:
+* Visual Studio 2022 with the **.NET desktop development** workload (the project targets `net8.0-windows` / WinForms)
+* The Wacom Ink SDK for signature installed with the **.NET components** selected, so the COM type libraries `WacomSignatureCaptureLibrary` and `FLSIGCTLLib` are registered on the machine - the project builds interop wrappers from these on first build
+
+To build and run:
+1. Open `SignatureCapture-WinForms.sln` in Visual Studio 2022
+2. Build and run the solution within Visual Studio
+
+### Java (Interface Samples\Java)
+
+Prerequisites:
+* A JDK installed, with `javac`/`java` available on the `PATH`
+* The Wacom Ink SDK for signature installed with the **Java components** selected, so `wgssSignatureCapture.jar`, `wgssJNI.jar`, `flsx.jar` and `wgssLicenceJNI.jar` are present in `Common Files\WacomGSS`
+
+To compile and run, start a command prompt in `Interface Samples\Java` and run the batch file matching your JDK/SDK bitness:
+
+```
+Run-SignatureCapture-x64.bat
+```
+or
+```
+Run-SignatureCapture-x86.bat
+```
+
+Each script compiles the sources in `src\com\wacom\sdk\sample` into `bin`, then launches `SignatureCaptureSample`.
+
+----
 
 ## Visual Basic Samples
 Visual Studio projects are included in the VS2019VB folder.
