@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SignatureCapture-WinForms": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
