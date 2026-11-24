@@ -165,7 +165,7 @@ Samples are included to help get started with the SDK.
 For further samples check Wacom's Developer additional samples, see [https://github.com/Wacom-Developer](https://github.com/Wacom-Developer)
 
 ## Documentation
-For further details on using the SDK see [Wacom Ink SDK for signature documentation](http://developer-docs.wacom.com/sdk-for-signature/) 
+For further details on using the SDK see [Wacom Ink SDK for signature documentation](https://developer-docs.wacom.com/docs/sdk-for-signature/windows/installation/) 
 
 The API Reference is available [here](https://developer-docs.wacom.com/docs/sdk-for-signature/api/overview/).
 
